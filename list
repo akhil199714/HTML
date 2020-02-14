@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>List</title>
+</head>
+<body>
+<b>Ordered list</b>
+<ol>
+<li>coffee</li><br>
+<li>tea</li><br>
+<li>milk</li>
+</ol>
+<hr>
+<b>Unordered list</b>
+<ul>
+<li>samosa</li><br>
+<li>puffs</li><br>
+<li>vada</li>
+</ul>
+</body>
+</html>
