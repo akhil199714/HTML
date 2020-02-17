@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kuttanadan Backwaters</title>
+</head>
+<style>
+body
+{
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+<body background="kuttanad.jpg"><hr>
+<font face="impact" size="40" color="darkblue">Kuttanadan Blog...!</font><hr>
+<button><a href="https://www.keralatourism.org/kerala-article/kuttanad-backwater/602"target="-blank">Go to Kuttanad</a></button><br>
+<font face="impact" size="40" color="darkblue">Book your Kuttanadan Safari</font>
+<p>Username: <input type="text"required></p>
+<p>Password: <input type="password"required></p>
+<p>Date of Travel: From <input type="date"required>To <input type="date"required></p> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kff0CeEdzLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>
