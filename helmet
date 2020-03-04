@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Helmet retailer</title>
+</head>
+<style>
+body
+{
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+
+<body background="helmet1.jpg"><hr>
+
+
+<div style="background:yellow;border:1px solid #cccccc;padding: 10px;" contextmenu="mymenu">
+<button><a href="file:///E:/Helmet/Page2.html"target="-blank">Accessories</a></button><br>
+</div>
+<font face="segoe script" size="40" color="white" ><b>Rockers</b> Helmets</font><hr>
+
+<nav>
+<ul>
+<li><a href="helmetretailer2.html">Accessories</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href=".html"></a></li>
+</ul>
+</nav>
+
+</body>
+</html>
