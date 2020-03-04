@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Grid</title>
+
+<style>
+
+.grid
+{
+display:grid;
+grid-template-rows: repeat(6, 1fr);
+grid-template-columns: repeat(12, 1fr);
+grid-gap: 20px;
+}
+
+.box
+{
+color:white;
+font-size: 6vw;
+padding:10px;
+background:Red;
+text-align:center;
+}
+
+.box:nth_child(1)
+{
+grid-column: span 12;
+}
+.box:nth_child(2),.box:nth_child(3)
+{
+grid-column: span 6;
+}
+.box:nth_child(4),.box:nth_child(5),.box:nth_child(6)
+{
+grid-column: span 4;
+}
+
+</style>
+</head>
+
+<main class="grid">
+<div class="box">1</div>
+<div class="box">2</div>
+<div class="box">3</div>
+<div class="box">4</div>
+<div class="box">5</div>
+</main>
+</html>
+
+
